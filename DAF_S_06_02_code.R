@@ -119,3 +119,6 @@ make_variables(as.estimate(input_estimates))
 
 # creates a possible output for the costs, different in each run due to make-variables before.
 Labor_cost + Management_cost
+
+
+AAA
